@@ -64,12 +64,11 @@ Now the content of your USB should be:
 
 <details>
 <summary>EFI</summary>
-- OC
-- BOOT
+OC, BOOT
 </details>
+<details>
 <summary>com.apple.recovery.boot</summary>
-- BaseSystem.dmg
-- BaseSystem.chunklist
+BaseSystem.dmg, BaseSystem.chunklist
 </details>
 
 Step 6: Plug the USB into the laptop and while powering it on, spam the Delete key.
