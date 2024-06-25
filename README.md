@@ -1,4 +1,7 @@
 # Hackintosh for Acer Aspire MM15 / MM1-571
+
+![Acer Aspire MM1-571](image.png)
+
 OpenCore configuration for this laptop that my friend had for a long time. Designed to run macOS Monterey, which is the last version of macOS supported by the CPU.
 
 I haven't checked if there are issues with Windows dualbooting, but I strongly recommend you to use rEFInd and basically add Windows and OpenCore to it's boot options if you're planning to do that.
