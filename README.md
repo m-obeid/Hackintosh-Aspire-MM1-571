@@ -62,15 +62,15 @@ Step 5: Copy the "com.apple.recovery.boot" folder it generated to your USB stick
 
 Now the content of your USB should be:
 
-```
-EFI
--> OC
--> BOOT
-
-com.apple.recovery.boot
--> BaseSystem.dmg
--> BaseSystem.chunklist
-```
+<details>
+<summary>EFI</summary>
+- OC
+- BOOT
+</details>
+<summary>com.apple.recovery.boot</summary>
+- BaseSystem.dmg
+- BaseSystem.chunklist
+</details>
 
 Step 6: Plug the USB into the laptop and while powering it on, spam the Delete key.
 
