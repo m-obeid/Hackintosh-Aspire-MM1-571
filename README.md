@@ -8,6 +8,8 @@ I haven't checked if there are issues with Windows dualbooting, but I strongly r
 
 If you're planning to use this, I recommend you check the Dortania OpenCore guide first to fix things like language, iServices and keyboard layout.
 
+OpenCore version: 1.0.0
+
 ## Specs
 - CPU: Intel Core i3-5005U (2 cores, 4 threads)
 - GPU: Intel HD Graphics 5500 (GPU acceleration works)
